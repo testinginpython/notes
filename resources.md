@@ -8,7 +8,9 @@
 ## Tools
 
 - pytest: http://pytest.org/latest/index.html
+- pytest plugins: https://pytest.org/latest/plugins_index/
 - nosetest: https://nose.readthedocs.org/en/latest/testing.html
+- nose plugins: http://nose.readthedocs.org/en/latest/plugins/builtin.html
 - tox: https://testrun.org/tox/latest/
 - mock: http://www.voidspace.org.uk/python/mock/
 - selenium: http://selenium.googlecode.com/svn/trunk/docs/api/py/index.html
@@ -64,6 +66,7 @@
 ## Miscellaneous
 
 - https://gabbi.readthedocs.org/en/latest/index.html
+- http://www.pydanny.com/pytest-no-boilerplate-testing.html
 
 ### A/B Testing
 
