@@ -26,6 +26,12 @@
 
 - PYTHONHASHSEED and your tests: http://echorand.me/pythonhashseed-and-your-tests.html#.VlOzsyArJhE
 
+### Specific mocking libraries
+
+- https://github.com/getsentry/responses
+- https://github.com/spulec/moto
+- https://github.com/spulec/freezegun
+
 ## Integration testing
 
 ## Application specific testing
