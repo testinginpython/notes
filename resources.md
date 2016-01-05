@@ -7,6 +7,7 @@
 
 ## Tools
 
+
 - pytest: http://pytest.org/latest/index.html
 - pytest plugins: https://pytest.org/latest/plugins_index/
 - nosetest: https://nose.readthedocs.org/en/latest/testing.html
@@ -21,6 +22,8 @@
 - factcheck: https://github.com/npryce/python-factcheck
 - https://github.com/pywinauto/pywinauto
 - https://github.com/msanders/autopy/
+- https://vcrpy.readthedocs.org/en/latest/
+- http pretty: https://github.com/gabrielfalcao/httpretty
 
 ## Unit testing
 
