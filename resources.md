@@ -34,6 +34,7 @@
 - https://github.com/getsentry/responses
 - https://github.com/spulec/moto
 - https://github.com/spulec/freezegun
+- https://github.com/jmcgeheeiv/pyfakefs
 
 ## Integration testing
 
