@@ -35,6 +35,7 @@
 - https://github.com/spulec/moto
 - https://github.com/spulec/freezegun
 - https://github.com/jmcgeheeiv/pyfakefs
+- https://pypi.python.org/pypi/mockcache
 
 ## Integration testing
 
