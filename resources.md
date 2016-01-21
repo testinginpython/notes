@@ -84,3 +84,7 @@
 - https://en.wikipedia.org/wiki/A/B_testing
 - https://github.com/seatgeek/sixpack
 - http://flask-split.readthedocs.org/en/latest/
+
+### Miscellaneous
+
+- ORMs, etc.
