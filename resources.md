@@ -36,6 +36,7 @@
 - https://github.com/spulec/freezegun
 - https://github.com/jmcgeheeiv/pyfakefs
 - https://pypi.python.org/pypi/mockcache
+- https://redislite.readthedocs.org/en/latest/
 
 ## Integration testing
 
