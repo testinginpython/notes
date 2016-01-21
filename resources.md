@@ -1,9 +1,11 @@
-## Introduction
+## Readings
 
 - Software testing: https://en.wikipedia.org/wiki/Software_testing
 - Testing your code: http://docs.python-guide.org/en/latest/writing/tests/
 - Types of software testing: http://www.softwaretestinghelp.com/types-of-software-testing/
 - Test fixtures: https://en.wikipedia.org/wiki/Test_fixture#Software
+- Unit test: http://martinfowler.com/bliki/UnitTest.html
+- Mocks aren't stubs: http://martinfowler.com/articles/mocksArentStubs.html
 
 ## Tools
 
