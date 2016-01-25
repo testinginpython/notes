@@ -6,9 +6,12 @@
 - Test fixtures: https://en.wikipedia.org/wiki/Test_fixture#Software
 - Unit test: http://martinfowler.com/bliki/UnitTest.html
 - Mocks aren't stubs: http://martinfowler.com/articles/mocksArentStubs.html
+- http://www.pydanny.com/pytest-no-boilerplate-testing.html
 
-## Tools
 
+## All relevant tools
+
+(which doesn't fit into one specific category below)
 
 - pytest: http://pytest.org/latest/index.html
 - pytest plugins: https://pytest.org/latest/plugins_index/
@@ -26,6 +29,8 @@
 - https://github.com/msanders/autopy/
 - https://vcrpy.readthedocs.org/en/latest/
 - http pretty: https://github.com/gabrielfalcao/httpretty
+- https://gabbi.readthedocs.org/en/latest/index.html
+
 
 ## Unit testing
 
@@ -49,7 +54,11 @@
 
 ### Testing command line applications
 
-### Testing web applications
+### Testing HTTP web applications
+
+- https://gabbi.readthedocs.org/en/latest/index.html
+- https://docs.djangoproject.com/en/1.9/topics/testing/
+- http://flask.pocoo.org/docs/0.10/testing/
 
 ### Testing Graphical applications
 
@@ -69,7 +78,6 @@
 - Different Python versions
 - Different operating systems
 
-
 ## Testing in your development lifecycle
 
 ### Test driven development
@@ -79,11 +87,6 @@
 ### Continuous Integration
 
 ### Continuous deployment
-
-## Miscellaneous
-
-- https://gabbi.readthedocs.org/en/latest/index.html
-- http://www.pydanny.com/pytest-no-boilerplate-testing.html
 
 ### A/B Testing
 
