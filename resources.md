@@ -30,6 +30,8 @@
 ## Unit testing
 
 - PYTHONHASHSEED and your tests: http://echorand.me/pythonhashseed-and-your-tests.html#.VlOzsyArJhE
+- Replacing boto s3 mocks using moto: http://echorand.me/replacing-boto-s3-mocks-using-moto-in-python.html#.VqapgZN95_Y
+- Mock objects and non-existent attributes/properties: http://echorand.me/mock-objects-and-non-existent-attributesmethods-in-python.html#.VqapmZN95_Y
 
 ### Specific mocking libraries
 
