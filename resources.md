@@ -56,7 +56,9 @@
 
 ### Testing command line applications
 
+- Generic guide needed
 - Click specific: http://click.pocoo.org/5/testing/
+- Look at Ruby's https://github.com/cucumber/aruba 
 
 ### Testing HTTP web applications
 
