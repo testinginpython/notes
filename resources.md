@@ -50,9 +50,13 @@
 
 ## Integration testing
 
+- https://github.com/twitter/diffy
+
 ## Application specific testing
 
 ### Testing command line applications
+
+- Click specific: http://click.pocoo.org/5/testing/
 
 ### Testing HTTP web applications
 
@@ -61,6 +65,10 @@
 - http://flask.pocoo.org/docs/0.10/testing/
 
 ### Testing Graphical applications
+
+### Miscellaneous
+
+- ORMs, etc.
 
 ## Behaviour driven development
 
@@ -86,6 +94,8 @@
 
 ### Continuous Integration
 
+## Testing in your deployment lifecycle
+
 ### Continuous deployment
 
 ### A/B Testing
@@ -94,6 +104,4 @@
 - https://github.com/seatgeek/sixpack
 - http://flask-split.readthedocs.org/en/latest/
 
-### Miscellaneous
 
-- ORMs, etc.
