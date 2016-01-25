@@ -7,6 +7,8 @@
 - Unit test: http://martinfowler.com/bliki/UnitTest.html
 - Mocks aren't stubs: http://martinfowler.com/articles/mocksArentStubs.html
 - http://www.pydanny.com/pytest-no-boilerplate-testing.html
+- http://googletesting.blogspot.co.uk/2015/04/just-say-no-to-more-end-to-end-tests.html
+- https://blog.gopheracademy.com/advent-2014/testing-microservices-in-go/
 
 
 ## All relevant tools
