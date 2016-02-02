@@ -32,6 +32,7 @@
 - https://vcrpy.readthedocs.org/en/latest/
 - http pretty: https://github.com/gabrielfalcao/httpretty
 - https://gabbi.readthedocs.org/en/latest/index.html
+- https://testfixtures.readthedocs.org/en/latest/
 
 
 ## Unit testing
