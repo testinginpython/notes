@@ -33,6 +33,9 @@
 - http pretty: https://github.com/gabrielfalcao/httpretty
 - https://gabbi.readthedocs.org/en/latest/index.html
 - https://testfixtures.readthedocs.org/en/latest/
+- https://flexmock.readthedocs.org/en/latest/
+
+
 
 
 ## Unit testing
