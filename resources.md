@@ -33,6 +33,7 @@
 ## Test Runners and tools
 
 - pytest: http://pytest.org/latest/index.html
+- http://www.the-compiler.org/tmp/sps16.html#slide1
 - pytest plugins: https://pytest.org/latest/plugins_index/
 - nosetest: https://nose.readthedocs.org/en/latest/testing.html
 - nose plugins: http://nose.readthedocs.org/en/latest/plugins/builtin.html
