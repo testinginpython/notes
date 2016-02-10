@@ -15,11 +15,6 @@
 
 (which doesn't fit into one specific category below)
 
-- pytest: http://pytest.org/latest/index.html
-- pytest plugins: https://pytest.org/latest/plugins_index/
-- nosetest: https://nose.readthedocs.org/en/latest/testing.html
-- nose plugins: http://nose.readthedocs.org/en/latest/plugins/builtin.html
-- tox: https://testrun.org/tox/latest/
 - mock: http://www.voidspace.org.uk/python/mock/
 - selenium: http://selenium.googlecode.com/svn/trunk/docs/api/py/index.html
 - phantomjs: http://phantomjs.org/
@@ -35,8 +30,14 @@
 - https://testfixtures.readthedocs.org/en/latest/
 - https://flexmock.readthedocs.org/en/latest/
 
+## Test Runners and tools
 
-
+- pytest: http://pytest.org/latest/index.html
+- pytest plugins: https://pytest.org/latest/plugins_index/
+- nosetest: https://nose.readthedocs.org/en/latest/testing.html
+- nose plugins: http://nose.readthedocs.org/en/latest/plugins/builtin.html
+- tox: https://testrun.org/tox/latest/
+- https://github.com/pytest-dev/unittest2pytest
 
 ## Unit testing
 
