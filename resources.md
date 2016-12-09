@@ -56,6 +56,7 @@
 - https://redislite.readthedocs.org/en/latest/
 - httppretty: https://github.com/gabrielfalcao/HTTPretty
 - https://betamax.readthedocs.org/en/latest/
+- https://github.com/h2non/pook
 
 ## Integration testing
 
